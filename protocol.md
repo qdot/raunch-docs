@@ -1,2 +1,13 @@
 ## Launch Protocol
 
+The command protocol for the launch consists of two byte packets.
+
+```
+0xYY 0xZZ
+```
+
+- YY represents the desired position of the toy. Valid inputs are 0-100
+- ZZ represents the desired speed the toy should move to the position
+  listed at. Valid inputs are 0-100.
+  
+Invalid inputs are ignored.

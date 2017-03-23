@@ -8,6 +8,7 @@
 
    bluetooth
    protocol
+   hardware
  ```
  
 ## Introduction
