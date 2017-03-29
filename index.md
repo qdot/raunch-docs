@@ -20,10 +20,8 @@ libraries for controlling features and receiving information from it.
 
 ## Donate
 
-[![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/qdot)
-
-If this project is helpful to you, please consider donating
-to [our patreon](http://www.patreon.com/qdot), so we can continue to
+If this project is helpful to you, [please consider donating
+to our patreon](http://www.patreon.com/qdot), so we can continue to
 reverse engineer and document sex hardware!
 
 ## Disclaimer
