@@ -9,6 +9,14 @@ Formatted documentation posted at:
 - http://raunch.readthedocs.io/en/latest/
 - http://metafetish.github.io/raunch-docs
 
+## Support The Project
+
+If you find this project helpful, you
+can
+[support Metafetish projects via Patreon](http://patreon.com/qdot)!
+Every donation helps us afford more hardware to reverse, document, and
+write code for!
+
 ## Disclaimer
 
 The raunch project is in no way affiliated with Fleshlight, Kiiroo, or
