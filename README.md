@@ -1,6 +1,6 @@
 # raunch-docs
 
-[![](https://api.travis-ci.org/metafetish/raunch-docs.svg?branch=master)](https://travis-ci.org/metafetish/raunch-docs) [![](https://readthedocs.org/projects/raunch/badge/?version=latest)](http://libraunch.readthedocs.io)
+[![](https://api.travis-ci.org/metafetish/raunch-docs.svg?branch=master)](https://travis-ci.org/metafetish/raunch-docs) [![](https://readthedocs.org/projects/raunch/badge/?version=latest)](http://libraunch.readthedocs.io) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/qdot)
 
 Sphinx-formatted documentation for Fleshlight/Kiiroo Launch Hardware and Communication Protocol.
 
