@@ -19,3 +19,9 @@ Status notifications characteristic for the Launch is
 ```
 88f80582-0000-01e6-aace-0002a5d5c51b
 ```
+
+The write characteristic to specify the type of commands is (Firmware 1.2+)
+
+```
+88f80583-0000-01e6-aace-0002a5d5c51b
+```
