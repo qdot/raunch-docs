@@ -16,7 +16,7 @@ The command protocol for the launch consists of two byte packets.
   
 Invalid inputs are ignored.
 
-Since firmware 1.2 it is required to send a 0 byte to the commands characteristic before sending these commands.
+Since firmware 1.2 it is required to send a 0x00 byte to the commands characteristic before sending these commands.
 
 ## Buttons
 
