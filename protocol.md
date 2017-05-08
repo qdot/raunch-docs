@@ -8,15 +8,17 @@ The command protocol for the launch consists of two byte packets.
 0xYY 0xZZ
 ```
 
-- YY represents the desired position of the toy. Valid inputs are 0-99
-  in [BCD format](https://en.wikipedia.org/wiki/Binary-coded_decimal).
+- YY represents the desired position of the toy. Valid inputs are 0-99.
 - ZZ represents the desired speed the toy should move to the position
-  listed at. Valid inputs are 0-99
-  in [BCD format](https://en.wikipedia.org/wiki/Binary-coded_decimal).
-  
+  listed at. Valid inputs are 0-99.
+
 Invalid inputs are ignored.
 
-Since firmware 1.2 it is required to send a 0x00 byte to the commands characteristic before sending these commands.
+Input values are in [BCD
+format](https://en.wikipedia.org/wiki/Binary-coded_decimal) by default. Since
+firmware 1.2 is it possible (and advised) to change the input values to decimal
+by sending a 0x00 byte to the mode characteristic once after connecting to the
+device.
 
 ## Buttons
 
